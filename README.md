@@ -1,6 +1,6 @@
 # WebScraperNba
 
-A console app webscraper that returns the 3 pointer average per 40 minutes for regular seasons for any player.
+A console app webscraper that returns the 3 pointer average per 40 minutes for regular seasons for any player in the NBA.
 
 ## Dependencies:
 * jsoup 1.14.2
